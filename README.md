@@ -6,4 +6,4 @@
 ## 项目预览
 https://nicegusheng.github.io/WeiJingSuo/
 
-喜欢的朋友可以给个star哦 ~_~
+喜欢的朋友可以给个star哦
